@@ -4,5 +4,5 @@ It is use to display the time and has a alarm setting control where you can set 
 
 Hosted link : https://amancantgit.github.io/Alarm-Clock/
 
-# Language used :- 
+## Language Used :- 
 HTML, CSS & Vanilla JavaScript.
