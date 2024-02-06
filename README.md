@@ -1,6 +1,6 @@
 # Alarm-Clock
 
-It is use to display the time and has a alarm setting control where you can set an alarm. An alarm clock is a timepiece that allows users to set multiple alarms for specific times, waking them up or reminding them of important events.
+An alarm clock is a timepiece that display the time and allows users to set multiple alarms for specific times, waking them up or reminding them of important events.
 
 ## Hosted link : https://amancantgit.github.io/Alarm-Clock/
 
