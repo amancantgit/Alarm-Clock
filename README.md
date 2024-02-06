@@ -6,7 +6,7 @@ An alarm clock is a timepiece that display the time and allows users to set mult
 
 ## Features :
 - Multiple alarm support
-- Representation of current time
+- Real-time representation of time
 
 ## Language Used :
 HTML, CSS & Vanilla JavaScript.
