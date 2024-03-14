@@ -2,8 +2,7 @@
 
 It's a timepiece that display the time and allows users to set multiple alarms for specific times, reminding them of important events.
 
-Hosted link : 
-https://amancantgit.github.io/Alarm-Clock/
+Click [here](https://amancantgit.github.io/Alarm-Clock/) to open.
 
 ## Features :
 - Multiple alarm support
